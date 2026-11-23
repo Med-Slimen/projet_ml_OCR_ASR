@@ -1,0 +1,13 @@
+== 1. Phrases nouvelles (21) : accuracy = 1.000
+              precision    recall  f1-score   support
+
+     negatif       1.00      1.00      1.00         7
+      neutre       1.00      1.00      1.00         7
+     positif       1.00      1.00      1.00         7
+
+    accuracy                           1.00        21
+   macro avg       1.00      1.00      1.00        21
+weighted avg       1.00      1.00      1.00        21
+
+== 2. Images (9) : similarité OCR moyenne = 0.991 ; accuracy sentiment = 1.000
+== 3. Audios (9) : similarité ASR moyenne = 0.979 ; accuracy sentiment = 1.000

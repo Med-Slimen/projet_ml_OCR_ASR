@@ -1,0 +1,22 @@
+texte,sentiment_ref
+"Je suis enchanté par ce téléphone, l'écran est superbe et la batterie dure longtemps.",positif
+"Service impeccable, le vendeur a répondu à toutes mes questions, je rachèterai sans hésiter.",positif
+"Un produit au top, livré en avance et parfaitement emballé, merci beaucoup !",positif
+"Qualité irréprochable, c'est exactement ce que je cherchais, très contente de mon achat.",positif
+"Cette montre est magnifique et fonctionne à merveille, je la recommande à tout le monde.",positif
+"Livraison ultra rapide et colis bien protégé, vraiment un excellent vendeur.",positif
+"J'adore cette veste, la coupe est parfaite et le tissu très agréable.",positif
+"Quelle déception, le produit est arrivé abîmé et personne ne m'a répondu.",negatif
+"Le casque est de très mauvaise qualité, le son grésille dès le premier jour.",negatif
+"Je n'ai jamais reçu ma commande et le vendeur ignore tous mes messages.",negatif
+"Une vraie catastrophe, la coque s'est brisée en une semaine, c'est honteux.",negatif
+"Impossible de me faire rembourser, service totalement nul et injoignable.",negatif
+"L'ordinateur surchauffe et plante sans cesse, je regrette cet achat.",negatif
+"Colis arrivé avec trois semaines de retard, emballage déchiré, très mécontent.",negatif
+"Le colis a été livré mardi à l'adresse indiquée.",neutre
+"L'article mesure 30 centimètres et pèse environ deux kilos.",neutre
+"Commande bien reçue, le contenu correspond au bon de livraison.",neutre
+"Produit conforme à la fiche technique, rien d'autre à ajouter.",neutre
+"J'ai reçu le chargeur ce matin, il est de couleur noire.",neutre
+"La boîte contenait l'appareil, un manuel et un câble.",neutre
+"Le paiement a été validé et la facture envoyée par courriel.",neutre
